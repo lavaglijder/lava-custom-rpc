@@ -1,1 +1,1 @@
-# discord-rpc
+# lava-custom-rpc
